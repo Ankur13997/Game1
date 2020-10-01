@@ -1,1 +1,1 @@
-# Game1
+# Rock paper and scissor
